@@ -20,7 +20,7 @@
 - **イベント駆動設計**: `event-bus.ts` → projection によりビューを構築（履歴・統計など）。
 - **オフライン対応**: Dexie を使ったローカル永続化でネットワーク切断時も動作。
 - **コンポーネント志向**: `src/app/component` 配下にページと再利用コンポーネントを整理。
-
-
+　
+　
 ---
 Made with ❤️ and a little obsession for beautiful, reliable scoring.
